@@ -1,4 +1,4 @@
-input files used for the optimization of Model-330 using g16XO
+files used for the geometry optimization of Model-330 using g16XO v0.5
 ---
 xof.gjf: HDAC-substrate complex information
 
@@ -10,5 +10,5 @@ xofile: XO settings
 
 configfile: QM methods
 
-xof.log: output
+xof.log: output file
 
