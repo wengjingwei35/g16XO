@@ -10,5 +10,6 @@ xofile: XO settings
 
 configfile: QM methods
 
-xof.log: output file
+xof.rar: zipped output file
 
+dForce for Figure S4C.docx: force error data for every atom
