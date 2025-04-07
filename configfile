@@ -1,7 +1,1 @@
-[GauExtIEO]
-high_level = 'B3LYP/genecp em=GD3BJ scrf=(solvent=generic,read,pcm) g09defaults'
-low_level = 'PM6D3 g09defaults'
-
-[Gaussian Extra Input]
-high_level = '-C -H -O -N 0;6-31G**;****;-S 0;6-311+G**;****;-Zn -K 0;SDD;****;;-Zn -K 0;SDD;;eps=4;epsinf=1.9'
 
