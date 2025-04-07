@@ -1,4 +1,4 @@
-files used for the geometry optimization of Model-559 using g16XO v0.5
+files used for the geometry optimization of Model-559 using g16XO 20240408
 ---
 xof.gjf: HDAC-substrate complex information
 
