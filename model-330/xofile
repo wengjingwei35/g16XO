@@ -1,0 +1,7 @@
+gjffile = xof.gjf
+unitfile = unitfile
+eggfile = eggfile
+queue name = Gaussian
+job number = 30
+processor number = 28
+memory = 100GB
