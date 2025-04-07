@@ -1,10 +1,14 @@
 input files used for the optimization of Model-330 using g16XO
 ---
-gjffile: syetem information
+xof.gjf: HDAC-substrate complex information
 
-unitfile: define units
+unitfile: unit definition
 
-eggfile: define fragments (or eggs)
+eggfile: fragment (or egg) definition
 
-configfile: define QM methods
+xofile: XO settings
+
+configfile: QM methods
+
+xof.log: output
 
